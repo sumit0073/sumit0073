@@ -2,7 +2,7 @@
 its Sumit Kumar
 
 Role : 
-      full Stack
+      full Stack developer
 <!--
 **sumit0073/sumit0073** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
